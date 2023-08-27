@@ -57,6 +57,7 @@
   <project path="packages/services/Telephony" name="los-security/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="github" />
 
   <project path="system/bt" name="los-security/android_system_bt" groups="pdk" remote="github" />
+  <project path="system/ca-certificates" name="los-security/android_system_ca-certificates" groups="pdk" remote="github" />
   <project path="system/core" name="los-security/android_system_core" groups="pdk" remote="github" />
   <project path="system/libfmq" name="los-security/android_system_libfmq" groups="pdk" remote="github" />
   <project path="system/netd" name="los-security/android_system_netd" groups="pdk" remote="github" />
