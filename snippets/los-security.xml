@@ -19,6 +19,7 @@
   <project path="external/dtc" name="los-security/android_external_dtc" groups="pdk" remote="github" />
   <project path="external/expat" name="los-security/android_external_expat" groups="pdk" remote="github" />
   <project path="external/freetype" name="los-security/android_external_freetype" groups="pdk" remote="github" />
+  <project path="external/giflib" name="los-security/android_external_giflib" groups="pdk,qcom_msm8x26" remote="github" />
   <project path="external/libavc" name="los-security/android_external_libavc" groups="pdk" remote="github" />
   <project path="external/libcups" name="los-security/android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="external/libexif" name="los-security/android_external_libexif" groups="pdk" remote="github" />
