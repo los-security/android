@@ -32,6 +32,7 @@
   <project path="frameworks/base" name="los-security/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="frameworks/minikin" name="los-security/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="frameworks/native" name="los-security/android_frameworks_native" groups="pdk" remote="github" />
+  <project path="frameworks/opt/net/wifi" name="los-security/android_frameworks_opt_net_wifi" groups="pdk" remote="github" />
   <project path="frameworks/opt/telephony" name="los-security/android_frameworks_opt_telephony" groups="pdk" remote="github" />
 
   <project path="hardware/nxp/nfc" name="los-security/android_hardware_nxp_nfc" groups="pdk" remote="github" />
