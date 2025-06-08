@@ -68,6 +68,7 @@
 
   <project path="tools/apksig" name="los-security/android_tools_apksig" groups="pdk,tradefed" remote="github" />
 
+  <project path="vendor/lineage" name="los-security/android_vendor_lineage" remote="github" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="los-security/android_vendor_nxp_opensource_external_libnfc-nci" remote="github" />
   <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="los-security/android_vendor_nxp_opensource_packages_apps_Nfc" remote="github" />
   <project path="vendor/nxp/opensource/halimpl" name="los-security/android_vendor_nxp_opensource_halimpl" remote="github" />
