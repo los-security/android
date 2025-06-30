@@ -72,5 +72,6 @@
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="los-security/android_vendor_nxp_opensource_external_libnfc-nci" remote="github" />
   <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="los-security/android_vendor_nxp_opensource_packages_apps_Nfc" remote="github" />
   <project path="vendor/nxp/opensource/halimpl" name="los-security/android_vendor_nxp_opensource_halimpl" remote="github" />
+  <project path="vendor/qcom/sdclang-6.0/linux-x86" name="proprietary_vendor_qcom_sdclang-6.0_linux-x86" remote="blobs" revision="pie" />
 
 </manifest>
